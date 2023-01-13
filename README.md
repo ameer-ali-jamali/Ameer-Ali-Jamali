@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ameer_Ali</h1>
-<h3 align="center">A Passionate Full Stack Web Developer From Pakistan</h3>
+<h3 align="center">A Passionate Full Stack Web Developer Skilled in Javascript,Jquery,Php,Laravel From Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameer-ali&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-ali" /> </p>
 

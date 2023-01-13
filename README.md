@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ameer_ali66" target="blank"><img src="https://img.shields.io/twitter/follow/ameer_ali66?logo=twitter&style=for-the-badge" alt="ameer_ali66" /></a> </p>
 
+![colored (1)](https://user-images.githubusercontent.com/99552615/212377343-6c85f813-2bc8-4e95-8eeb-8cf627cb94cb.png)
+
+
 - 🔭 I’m currently working on [E-Project_Using_Laravel](https://github.com/ameer-ali-jamali/E_Project_Using_Laravel.git)
 
 - 🌱 I’m currently learning **Laravel_9**
@@ -18,6 +21,9 @@
 - 📫 How to reach me **ameer.ali.jamali886@gmial.com**
 
 - ⚡ Fun fact **I Think One Day I will Be Best Developer In The world.**
+
+![colored](https://user-images.githubusercontent.com/99552615/212377390-88217469-9c74-415e-b806-523033fb096d.png)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

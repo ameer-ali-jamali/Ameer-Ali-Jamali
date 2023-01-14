@@ -8,11 +8,11 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 <h1 align="center">Hi 👋, I'm Ameer_Ali </h1>
 </a><h3 class="center">A Passionate Full Stack Web Developer Skilled in Javascript,Jquery,Php,Laravel  From Pakistan.</h3>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="max-width: 100%;"></a></p>
-<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 45%;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" data-target="animated-image.originalLink"><img align="right" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="adam-pw" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 45%;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" data-target="animated-image.originalLink"><img align="right" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="adam-pw" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="400"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" target="_blank">
           <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="adam-pw" class="AnimatedImagePlayer-animatedImage" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" style="display: block; opacity: 1;">
+<!--             <img data-target="animated-image.replacedImage" alt="adam-pw" class="AnimatedImagePlayer-animatedImage" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" style="display: block; opacity: 1;"> -->
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="381" height="381"></canvas></span>
         </a>
         <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play adam-pw"></button>
@@ -51,16 +51,16 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 ⚡ Fun fact   One Day I will Be Best Web Developer In The world 
 <br><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">
 
-📫 How to reach me  [Gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ameer.ali.jamali886@gmail.com)  
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="max-width: 100%;"></a></p>
+📫 How to reach me  [&nbsp; <img width="25" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png">](https://mail.google.com/mail/?view=cm&fs=1&to=ameer.ali.jamali886@gmail.com) <a href="https://twitter.com/ameer_ali66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ameer_ali" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ameer_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ameer_ali" height="30" width="40"/></a>
+      
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"><img 
+src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="max-width: 100%;"></a></p>
 <h2 align="center" dir="auto"><a id="user-content--connect-with-me" class="anchor" aria-hidden="true" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">📱</g-emoji> Connect with me</h2>
 <br>
-<p align="center" dir="auto">
-<a href="https://www.linkedin.com/in/sarfrajahmadraza/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarfraj0304" height="30" width="40" style="max-width: 100%;"></a>
-</p>
 <br>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="max-width: 100%;"></a></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"><img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/grid-snake.svg" style="max-width: 100%;"></a></p>
+
 <br>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="max-width: 100%;"></a></p>
 <h2 align="center" dir="auto"><a id="user-content--languages-and-tools" class="anchor" aria-hidden="true" href="#-languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Languages and Tools:</h2>
@@ -152,8 +152,7 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ameer_ali66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ameer_ali66" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ameer_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ameer_ali" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

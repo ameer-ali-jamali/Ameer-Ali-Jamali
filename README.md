@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameer-ali&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-ali" /> </p>
 <h1 align="center">Hi 👋, I'm Ameer_Ali</h1>
 <h3 align="center">A Passionate Full Stack Web Developer Skilled in Javascript,Jquery,Php,Laravel From Pakistan</h3>
 
@@ -8,15 +7,15 @@
 
 - 🔭 I’m currently working on  [E-Project_Using_Laravel](https://github.com/ameer-ali-jamali/E_Project_Using_Laravel.git)
 
-- 🌱 I’m currently learning **Laravel_9**
+- 🌱 I’m currently learning [Laravel 9]
   
-- 💬 Ask me about **Html5,Css,Bootstrap,Javascript,Jquery,Php,laravel_9**
+- 💬 Ask me about [Html5,Css,Bootstrap,Javascript,Jquery,Php,laravel_9]
 
-- 👨‍💻 All of my projects are available at Github Repostries
+- 👨‍💻 All of my projects are available at My [Github Repostries](https://github.com/ameer-ali-jamali?tab=repositories)
 
-- 📫 How to reach me **ameer.ali.jamali886@gmial.com**
+- 📫 How to reach me  [Gmail.com](ameer.ali.jamali886@gmial.com)
 
-- ⚡ Fun fact **I Think One Day I will Be Best Developer In The world.**
+- ⚡ Fun fact [ I Think One Day I will Be Best Developer In The world ]
 
   </div>
   

@@ -6,7 +6,7 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
 <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg>
 <h1 align="center">Hi 👋, I'm Ameer_Ali <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35" style="max-width: 100%;"></h1>
-</a><h3 class="center">A Passionate Full Stack Web Developer Skilled in Javascript,Jquery,Php,Laravel  From Pakistan.</h3>
+</a><h3 class="center">A Passionate Full Stack Web Developer Skilled in Javascript| Jquery | Node.js | Php | Laravel |  From Pakistan.</h3>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="max-width: 100%;"></a></p>
 <p dir="auto"><animated-image data-catalyst="" style="float: right; width: 45%;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" data-target="animated-image.originalLink"><img align="right" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="adam-pw" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="400"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
@@ -39,16 +39,16 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 🔭 I’m currently working on  [E-Project_Using_Laravel](https://github.com/ameer-ali-jamali/E_Project_Using_Laravel.git)
 <br><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">
 
-🌱 I’m currently learning [ Larave 9.x , Oops , C Sharp , .Net ](https:"https://www.learncs.org/")
+🌱 I’m currently learning [ Larave 9.x , Oops , C Sharp , .Net ](https:"#")
  <br><g-emoji class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">
   
-💬 Ask me about Html5,Css,Bootstrap,Javascript,Php,Node.js,laravel
+💬 Ask me about [ Html5 , Css , Bootstrap , Javascript , Node.js , Php , laravel ](https:"#")
 <br><g-emoji class="g-emoji" alias="all_projects" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">
 
 👨‍💻 All of my projects are available at My [Github Repostries](https://github.com/ameer-ali-jamali?tab=repositories)
 <br><g-emoji class="g-emoji" alias="fun_fact" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">
 
-⚡ Fun fact   One Day I will Be Best Web Developer In The world 
+⚡ Fun fact  [ One Day I will Be Best Web Developer In The world ](https:"#")
 <br><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">
 
 📫 How to reach me  [&nbsp; <img height="25" width="40" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png">](https://mail.google.com/mail/?view=cm&fs=1&to=ameer.ali.jamali886@gmail.com) <a href="https://twitter.com/ameer_ali66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ameer_ali" height="30" width="40" /></a>

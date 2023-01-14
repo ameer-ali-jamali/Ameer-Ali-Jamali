@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on  [E-Project_Using_Laravel](https://github.com/ameer-ali-jamali/E_Project_Using_Laravel.git)
 
-- 🌱 I’m currently learning [Laravel 9]
+- 🌱 I’m currently learning [Laravel Latest](https://laravel.com/docs/9.x/releases)
   
 - 💬 Ask me about [Html5,Css,Bootstrap,Javascript,Jquery,Php,laravel_9]
 

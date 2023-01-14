@@ -3,24 +3,18 @@
 
 ![colored](https://user-images.githubusercontent.com/99552615/212377390-88217469-9c74-415e-b806-523033fb096d.png)
 
-<div class="container">
+🔭 I’m currently working on  [E-Project_Using_Laravel](https://github.com/ameer-ali-jamali/E_Project_Using_Laravel.git)               |  
+🌱 I’m currently learning [Laravel Latest](https://laravel.com/docs/9.x/releases) |
+💬 Ask me about [Html5,Css,Bootstrap,Javascript,Jquery,Php,laravel_9] |
+👨‍💻 All of my projects are available at My [Github Repostries](https://github.com/ameer-ali-jamali?tab=repositories) |
+📫 How to reach me  [Gmail.com](href="https://mail.google.com/mail/?view=cm&fs=1&to=ameer.ali.jamali886@gmail.com") |
+⚡ Fun fact   One Day I will Be Best Web Developer In The world | 
 
-- 🔭 I’m currently working on  [E-Project_Using_Laravel](https://github.com/ameer-ali-jamali/E_Project_Using_Laravel.git)
+| Header A       | Header B       |
+| -------------- | -------------- |
+|    |  ![animation_500_kxa883sd](https://user-images.githubusercontent.com/99552615/212457135-b96b6741-70be-4a24-9a5a-bd5377709f2e.gif) |
 
-- 🌱 I’m currently learning [Laravel Latest](https://laravel.com/docs/9.x/releases)
-  
-- 💬 Ask me about [Html5,Css,Bootstrap,Javascript,Jquery,Php,laravel_9]
-
-- 👨‍💻 All of my projects are available at My [Github Repostries](https://github.com/ameer-ali-jamali?tab=repositories)
-
-- 📫 How to reach me  [Gmail.com](ameer.ali.jamali886@gmial.com)
-
-- ⚡ Fun fact [ I Think One Day I will Be Best Developer In The world ]
-
-  </div>
-  
 ![colored](https://user-images.githubusercontent.com/99552615/212377390-88217469-9c74-415e-b806-523033fb096d.png)
-
 
 
 <h3 align="left">Connect with me:</h3>

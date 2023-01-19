@@ -48,8 +48,6 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 🔭 I’m currently working on [New project Based on php Framework codeIgniter 4](https://github.com/ameer-ali-jamali/Temp_details.git)
 <br><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">      
             
-
-  
 👨‍💻 All of my projects are available at My [Github Repostries](https://github.com/ameer-ali-jamali?tab=repositories)
 <br><g-emoji class="g-emoji" alias="fun_fact" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">
 

@@ -39,11 +39,16 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 👨‍💻  My Skills [ Html | Css | Bootstrap | Javascript | Jquery | Ajax | Php | Laravel 9.x | Php-Frameworks | Mvc ]()
 <br><g-emoji class="g-emoji" alias="all_projects" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">  
       
-🔭 I’m currently working on [New project Based on php Framework codeIgniter 4](https://github.com/ameer-ali-jamali/Temp_details.git)
+🌱 I’m currently learning [Php Frame-Works](https://raygun.com/blog/top-php-frameworks/)
+<br><g-emoji class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">
+      
+🔭 I’m currently working on [E_Project_Using_Laravel 9.x](https://github.com/ameer-ali-jamali/E_Project_Using_Laravel)
 <br><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">
 
-🌱 I’m currently learning [Php Frame-Works](https://raygun.com/blog/top-php-frameworks/)
- <br><g-emoji class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">
+🔭 I’m currently working on [New project Based on php Framework codeIgniter 4](https://github.com/ameer-ali-jamali/Temp_details.git)
+<br><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">      
+            
+
   
 👨‍💻 All of my projects are available at My [Github Repostries](https://github.com/ameer-ali-jamali?tab=repositories)
 <br><g-emoji class="g-emoji" alias="fun_fact" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">

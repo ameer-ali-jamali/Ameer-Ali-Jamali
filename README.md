@@ -117,11 +117,11 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
       
 <div  align="center">
    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameer-ali-jamali" alt="ameer-ali-jamali" /></div>
-      
-      
+       
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
       
 ## 👨‍💻 Connect with me  
-    
 <div align="center">
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20810063/ameer-ali" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
@@ -131,7 +131,6 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 </a>  
       
 </div>  
- 
 <br/> 
       
 

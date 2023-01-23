@@ -121,8 +121,8 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ameer-ali-jamali&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## My Stats  
+<div ><img src="https://github-readme-stats.vercel.app/api?username=ameer-ali-jamali&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 

@@ -113,9 +113,9 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 </table>      
 <br/>  
 
-# 🏆 GitHub Trophies 
+## 🏆 GitHub Trophies 
       
-<div  align="left">
+<div  align="center">
    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameer-ali-jamali" alt="ameer-ali-jamali" /></div>
       
       

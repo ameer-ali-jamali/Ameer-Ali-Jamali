@@ -136,20 +136,7 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
  
 <br/> 
       
-      <table>
-<div valign="top" width="100%">  
-<span align="left" >
-
-      </span>
-<span align="right" >
-    
-      </span>
-</div>
-</table>      
-<br/>  
- 
- 
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameer-ali-jamali" alt="ameer-ali-jamali" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameer-ali-jamali" alt="ameer-ali-jamali" /></a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameer-ali-jamali&show_icons=true&locale=en&layout=compact" alt="ameer-ali-jamali" /></p>
 

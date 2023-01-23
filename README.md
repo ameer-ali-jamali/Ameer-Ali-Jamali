@@ -98,30 +98,20 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
- 
   </table>
       
 <br/>  
   
-## 👨‍💻 GitHub Stats
+## 📊 GitHub Stats
 <table>
 <div valign="top" width="100%">  
 <span align="left" ><img  src="https://github-readme-stats.vercel.app/api?username=ameer-ali-jamali&show_icons=true&locale=en" alt="ameer-ali-jamali" /></span>
 <span align="right" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-ali-jamali&theme=default" alt="ameer-ali-jamali" /></span>
+<span align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameer-ali-jamali&show_icons=true&locale=en&layout=compact" alt="ameer-ali-jamali" /></span>
 </div>
 </table>      
 <br/>  
 
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
 ## 👨‍💻 Connect with me  
     
 <div align="center">
@@ -137,9 +127,6 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 <br/> 
       
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameer-ali-jamali" alt="ameer-ali-jamali" /></a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameer-ali-jamali&show_icons=true&locale=en&layout=compact" alt="ameer-ali-jamali" /></p>
-
 
 
 

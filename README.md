@@ -137,3 +137,23 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 
 
 
+
+
+
+
+
+
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ameer-ali-jamali&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-ali-jamali" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ameer-ali-jamali&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-ali-jamali" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ameer-ali-jamali&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-ali-jamali" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ameer-ali-jamali&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-ali-jamali" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ameer-ali-jamali&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-ali-jamali" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ameer-ali-jamali&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-ali-jamali" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ameer-ali-jamali&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-ali-jamali" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ameer-ali-jamali&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-ali-jamali" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ameer-ali-jamali&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-ali-jamali" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ameer-ali-jamali&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-ali-jamali" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ameer-ali-jamali&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-ali-jamali" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ameer-ali-jamali&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-ali-jamali" /> </p>

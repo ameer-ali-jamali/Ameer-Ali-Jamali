@@ -1,8 +1,6 @@
 <div class="Box-body p-4">      
       
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ameer-ali-jamali&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-ali-jamali" /> </p>
       
 <h3 align="center" dir="auto">
 <a id="user-content-a-full-stack-web-developer-skilled-in-mern-stack-who-focuses-on-writing-clean-and-efficient-code" 
@@ -99,15 +97,33 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 </div>
-      
-
+ 
   </table>
       
 <br/>  
+  
+## 👨‍💻 GitHub Stats
+<table>
+<div valign="top" width="100%">  
+<span align="left" ><img  src="https://github-readme-stats.vercel.app/api?username=ameer-ali-jamali&show_icons=true&locale=en" alt="ameer-ali-jamali" /></span>
+<span align="right" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-ali-jamali&theme=default" alt="ameer-ali-jamali" /></span>
+</div>
+</table>      
+<br/>  
 
-## Connect with me  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+## 👨‍💻 Connect with me  
+    
 <div align="center">
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20810063/ameer-ali" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
@@ -115,20 +131,28 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 <a href="https://linkedin.com/in/www.linkedin.com/in/ameer-ali-jamali" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+      
 </div>  
-  
-
-<br/>  
-
-
-## My Stats  
-<div ><img src="https://github-readme-stats.vercel.app/api?username=ameer-ali-jamali&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
  
+<br/> 
+      
+      <table>
+<div valign="top" width="100%">  
+<span align="left" >
 
-  
+      </span>
+<span align="right" >
+    
+      </span>
+</div>
+</table>      
+<br/>  
+ 
+ 
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameer-ali-jamali" alt="ameer-ali-jamali" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameer-ali-jamali&show_icons=true&locale=en&layout=compact" alt="ameer-ali-jamali" /></p>
+
 
 
 

@@ -66,7 +66,7 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 <br><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">
 
 📫 How to reach me [Gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ameer.ali.jamali886@gmail.com)
-<hr>
+## 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="max-width: 100%;"></a></p>
 <br>
    
@@ -102,24 +102,37 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
       
 <br/>  
   
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 <table>
 <div valign="top" width="100%">  
-<span align="left" ><img  src="https://github-readme-stats.vercel.app/api?username=ameer-ali-jamali&show_icons=true&locale=en" alt="ameer-ali-jamali" /></span>
-<span align="right" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-ali-jamali&theme=default" alt="ameer-ali-jamali" /></span>
-<span align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ameer-ali-jamali&show_icons=true&locale=en&layout=compact" alt="ameer-ali-jamali" /></span>
+<span align="left" ></span>
+<span align="right" >
+<span align="center" ></span> -->
       
+## 📊 GitHub Stats
+      
+<table><tr><td valign="top" width="50%">
+<div align="center">  
+<a href="#"><img  src="https://github-readme-stats.vercel.app/api?username=ameer-ali-jamali&show_icons=true&locale=en" alt="ameer-ali-jamali" /></a>      
 </div>
-</table>      
-<br/>  
-
+</td><td valign="top" width="50%"> 
+<div align="center">  
+     <a href="#"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-ali-jamali&theme=default" alt="ameer-ali-jamali" /></a>
+      </div>
+</table> 
+<div align="center">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ameer-ali-jamali&show_icons=true&locale=en&layout=compact" alt="ameer-ali-jamali" /></a>
+      </div>
+<br/>          
+      
 ## 🏆 GitHub Trophies 
       
 <div  align="center">
    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameer-ali-jamali" alt="ameer-ali-jamali" /></div>
        
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ Random Dev Quote    
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
       
 ## 👨‍💻 Connect with me  
 <div align="center">

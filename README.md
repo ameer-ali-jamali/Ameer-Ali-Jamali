@@ -41,12 +41,12 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 👨‍💻  My Skills [ Html | Css | Bootstrap | Javascript | Jquery | Ajax | Php | Laravel 9.x | Php-Frameworks | Mvc ]()
 <br><g-emoji class="g-emoji" alias="all_projects" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">  
       
-🌱 I’m currently learning [Node js ](https://raygun.com/blog/top-php-frameworks/)
+🌱 I’m currently learning [Node js ](https://nodejs.org/)
 <br><g-emoji class="g-emoji" fallback-src="https://nodejs.org/">
-      
-🔭 I’m currently working on [Node-Js](https://github.com/ameer-ali-jamali/Practice-1-Node-js)
-<br><g-emoji class="g-emoji" alias="seedling" fallback-src="">
 
+🔭 I’m currently working on [Node Js](https://github.com/ameer-ali-jamali/Practice-1-Node-js.git)
+<br><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">  
+      
 🔭 I’m currently working on [Temp_details using_codeIgniter_4](https://github.com/ameer-ali-jamali/Temp_details.git)
 <br><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">      
             

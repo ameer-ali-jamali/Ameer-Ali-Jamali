@@ -48,10 +48,17 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 <br><g-emoji class="g-emoji" alias="fun_fact" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">
 
 💻 E-Books website on Laravel 9.x complete website [Repository](https://github.com/ameer-ali-jamali/E_Project_Using_Laravel)
-<br><g-emoji class="g-emoji" alias="all_projects" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">   
+<br><g-emoji class="g-emoji" alias="all_projects" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">  
       
-💻 My front-end website demo [Click Here](https://a1-uniforrms.000webhostapp.com)
+💻 My Laravel Website Live [E-Books.com](https://e-boooks.000webhostapp.com/)
 <br><g-emoji class="g-emoji" alias="fun_fact" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">
+
+💻 My Front-End website Live [A1-Uniforms.com](https://a1-uniforrms.000webhostapp.com)
+<br><g-emoji class="g-emoji" alias="fun_fact" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">
+
+💻 My React.js website Live [Temp-Details](https://temprory-details.netlify.app/)
+<br><g-emoji class="g-emoji" alias="fun_fact" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">
+
 
 📄 Know about my experiences [Check My Resume](https://drive.google.com/file/d/17bGfilHPrPC0ZqaMi2a_nGg5VAnQau-k/view?usp=drive_link)
 <br><g-emoji class="g-emoji" alias="all_projects" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">

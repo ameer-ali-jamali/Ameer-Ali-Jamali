@@ -8,7 +8,7 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
 <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg>
 <h1 align="center">Hi 👋, I'm Ameer_Ali <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35" style="max-width: 100%;"></h1>
-</a><h3 align="center">A Passionate Full Stack Web Developer Skilled in Php | Laravel 9.x | Mvc | Node.js | Javascript | Jquery | Ajax | Html | Css </h3>
+</a><h3 align="center">A Passionate Full Stack Developer Skilled in JavaScript | Node.js | Express.js| REST API | React.js And More... </h3>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="max-width: 100%;"></a></p>
 <p dir="auto"><animated-image data-catalyst="" style="float: right; width: 45%;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" data-target="animated-image.originalLink"><img align="right" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="adam-pw" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="400"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
@@ -38,22 +38,13 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 <h1 dir="auto"><a id="user-content--about-me" class="anchor" aria-hidden="true" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💫</g-emoji> About Me :</h1>
 <p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">
       
-👨‍💻  My Skills [ Html | Css | Bootstrap | Javascript | Jquery | Ajax | Php | Laravel 9.x | Php-Frameworks | Mvc ]()
+👨‍💻  My Skills [ JavaScript | Node.js | Express.js| REST API | React.js | PHP | Laravel | SQL | MySQL | MongoDB | MoSQL | HTML | CSS | SASS | Bootstrap | OOP | jQuery | Ajax | XML | MVC | GIT | Version Control ]()
 <br><g-emoji class="g-emoji" alias="all_projects" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">  
       
-🌱 I’m currently learning [Node js ](https://nodejs.org/)
+🌱 I’m currently learning [ Python ](https://www.python.org/)
 <br><g-emoji class="g-emoji" fallback-src="https://nodejs.org/">
-
-🔭 I’m currently working on [Node Js](https://github.com/ameer-ali-jamali/Practice-1-Node-js.git)
-<br><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">  
-      
-🔭 I’m currently working on [Temp_details using_codeIgniter_4](https://github.com/ameer-ali-jamali/Temp_details.git)
-<br><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">      
-            
-🔭 I’m currently working on [E-Project_Using-React.js](https://github.com/ameer-ali-jamali/E-Project_Using-React.js)
-<br><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">      
            
-👨‍💻 All of my projects are available at My [Github Repostries](https://github.com/ameer-ali-jamali?tab=repositories)
+👨‍💻 All of my projects are available at My [Repostries](https://github.com/ameer-ali-jamali?tab=repositories)
 <br><g-emoji class="g-emoji" alias="fun_fact" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">
 
 💻 E-Books website on Laravel 9.x complete website [Github Repository](https://github.com/ameer-ali-jamali/E_Project_Using_Laravel)
@@ -62,11 +53,10 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 💻 My front-end website demo [Click Here](https://a1-uniforrms.000webhostapp.com)
 <br><g-emoji class="g-emoji" alias="fun_fact" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">
 
-📄 Know about my experiences [Check My Resume](https://drive.google.com/file/d/1Dd2JesKJQxphaGCdxXqpOojlLdD-yDA7/view?usp=sharing)
+📄 Know about my experiences [Check My Resume](https://drive.google.com/file/d/17bGfilHPrPC0ZqaMi2a_nGg5VAnQau-k/view?usp=drive_link)
 <br><g-emoji class="g-emoji" alias="all_projects" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">
       
-⚡ Fun fact  [ One Day I will Be Best Web Developer In The world ](https:"#")
-<br><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">
+⚡ Fun fact : One Day I will Be Best Web Developer In The world 
 
 📫 How to reach me [Gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ameer.ali.jamali886@gmail.com)
 ## 
@@ -139,7 +129,7 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
       
 ## 👨‍💻 Connect with me  
 <div align="center">
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20810063/ameer-ali" target="_blank">
+<a href="https://stackoverflow.com/" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/ameer-ali-jamali" target="_blank">

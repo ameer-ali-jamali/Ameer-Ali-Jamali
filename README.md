@@ -47,7 +47,7 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 👨‍💻 All of my projects are available at My [Repostries](https://github.com/ameer-ali-jamali?tab=repositories)
 <br><g-emoji class="g-emoji" alias="fun_fact" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">
 
-💻 E-Books website on Laravel 9.x complete website [Github Repository](https://github.com/ameer-ali-jamali/E_Project_Using_Laravel)
+💻 E-Books website on Laravel 9.x complete website [Repository](https://github.com/ameer-ali-jamali/E_Project_Using_Laravel)
 <br><g-emoji class="g-emoji" alias="all_projects" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">   
       
 💻 My front-end website demo [Click Here](https://a1-uniforrms.000webhostapp.com)

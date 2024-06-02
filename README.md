@@ -39,7 +39,6 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 <p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">
       
 👨‍💻  My Skills [ MERN Stack Developer | JavaScript | Node.js | Express.js | REST API | React.js | SQL | MySQL MongoDB | OOP | MVC | GIT | Version Control](https://www.linkedin.com/in/ameer-ali-jamali/)
-
 <br><g-emoji class="g-emoji" alias="all_projects" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">  
       
 🌱 I’m currently learning [ Python ](https://www.python.org/)

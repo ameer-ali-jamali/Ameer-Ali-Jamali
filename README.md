@@ -7,8 +7,8 @@
 class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-mern-stack-who-focuses-on-writing-clean-and-efficient-code">
 <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
 <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg>
-<h1 align="center">Hi 👋, I'm Ameer_Ali <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35" style="max-width: 100%;"></h1>
-</a><h3 align="center">A Passionate Full Stack Developer Skilled in JavaScript | Node.js | Express.js| REST API | React.js And More... </h3>
+<h1 align="center">Hi 👋, I'm Ameer Ali</h1>
+</a><h3 align="center">A Passionate MERN Stack Developer Skilled in JavaScript | Node.js | Express.js| REST API | React.js And More... </h3>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="max-width: 100%;"></a></p>
 <p dir="auto"><animated-image data-catalyst="" style="float: right; width: 45%;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" data-target="animated-image.originalLink"><img align="right" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="adam-pw" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="400"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
@@ -39,6 +39,7 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 <p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">
       
 👨‍💻  My Skills [ MERN Stack Developer | JavaScript | Node.js | Express.js | REST API | React.js | SQL | MySQL MongoDB | OOP | MVC | GIT | Version Control](https://www.linkedin.com/in/ameer-ali-jamali/)
+
 <br><g-emoji class="g-emoji" alias="all_projects" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">  
       
 🌱 I’m currently learning [ Python ](https://www.python.org/)

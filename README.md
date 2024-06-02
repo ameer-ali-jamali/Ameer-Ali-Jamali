@@ -60,7 +60,7 @@ class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-m
 <br><g-emoji class="g-emoji" alias="fun_fact" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">
 
 
-📄 Know about my experiences [Check My Resume]([https://drive.google.com/file/d/1yWdgnsFZid6tHkvOwDbh-MXvc3bo-W70/view?usp=sharing](https://drive.google.com/file/d/1a2xXrEeFWmmR5N6OBwgzPLpC6g3wF2I7/view))
+📄 Know about my experiences [Check My Resume]([https://drive.google.com/file/d/1a2xXrEeFWmmR5N6OBwgzPLpC6g3wF2I7/view])
 <br><g-emoji class="g-emoji" alias="all_projects" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">
       
 ⚡ Fun fact : One Day I will Be Best Web Developer In The world 

@@ -1,113 +1,144 @@
 <div class="Box-body p-4">      
       
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ameer-ali-jamali&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-ali-jamali" /> </p>
-      
+<p align="center">
+      <img src="https://komarev.com/ghpvc/?username=ameer-ali-jamali&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-ali-jamali" />
+</p>
 <h3 align="center" dir="auto">
-<a id="user-content-a-full-stack-web-developer-skilled-in-mern-stack-who-focuses-on-writing-clean-and-efficient-code" 
-class="anchor" aria-hidden="true" href="#a-full-stack-web-developer-skilled-in-mern-stack-who-focuses-on-writing-clean-and-efficient-code">
-<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-<path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg>
-<h1 align="center">Hi 👋, I'm Ameer Ali</h1>
-</a><h3 align="center">A Passionate MERN Stack Developer Skilled in JavaScript | Node.js | Express.js| REST API | React.js And More... </h3>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="max-width: 100%;"></a></p>
-<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 45%;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" data-target="animated-image.originalLink"><img align="right" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="adam-pw" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="400"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" target="_blank">
-          <span data-target="animated-image.imageContainer">
-<!--             <img data-target="animated-image.replacedImage" alt="adam-pw" class="AnimatedImagePlayer-animatedImage" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" style="display: block; opacity: 1;"> -->
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="381" height="381"></canvas></span>
-        </a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play adam-pw"></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play adam-pw">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open adam-pw in new window" class="AnimatedImagePlayer-button" href="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
-<h1 dir="auto"><a id="user-content--about-me" class="anchor" aria-hidden="true" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💫</g-emoji> About Me :</h1>
-<p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">
-      
-👨‍💻  My Skills [ MERN Stack Developer | JavaScript | Node.js | Express.js | REST API | React.js | SQL | MySQL MongoDB | OOP | MVC | GIT | Version Control](https://www.linkedin.com/in/ameer-ali-jamali/)
-<br><g-emoji class="g-emoji" alias="all_projects" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">  
-      
-🌱 I’m currently learning [ Python ](https://www.python.org/)
-<br><g-emoji class="g-emoji" fallback-src="https://nodejs.org/">
-           
-👨‍💻 All of my projects are available at My [Repostries](https://github.com/ameer-ali-jamali?tab=repositories)
-<br><g-emoji class="g-emoji" alias="fun_fact" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">
-
-💻 E-Books website on Laravel 9.x complete website [Repository](https://github.com/ameer-ali-jamali/E_Project_Using_Laravel)
-<br><g-emoji class="g-emoji" alias="all_projects" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">  
-      
-💻 My Laravel Website Live [E-Books.com](https://e-boooks.000webhostapp.com/)
-<br><g-emoji class="g-emoji" alias="fun_fact" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">
-
-💻 My Front-End website Live [A1-Uniforms.com](https://a1-uniforrms.000webhostapp.com)
-<br><g-emoji class="g-emoji" alias="fun_fact" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">
-
-💻 My React.js website Live [Temp-Details](https://temprory-details.netlify.app/)
-<br><g-emoji class="g-emoji" alias="fun_fact" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">
-
-
-📄 Know about my experiences [Check My Resume](https://drive.google.com/drive/folders/1XPQ8rRWJ_PKh5L8VUcd1Mf31DwBevdIx)
-<br><g-emoji class="g-emoji" alias="all_projects" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">
-      
-⚡ Fun fact : One Day I will Be Best Web Developer In The world 
-
-📫 How to reach me [Gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ameer.ali.jamali886@gmail.com)
-## 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="max-width: 100%;"></a></p>
+<h1 align="center">Hi 👋, I'm <strong>Ameer Ali</strong></h1>
+</a>
+      <h3 align="center">🚀 Passionate MERN Stack Developer | React.js | Node.js | Express.js | MongoDB | Laravel | PHP | REST APIs</h3>
+<p dir="auto">
+      <a target="_blank"  rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="max-width: 100%;"></a>
+</p>
+<p dir="auto" >
+<h1>
+      <g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💫</g-emoji>
+      About Me :
+</h1>
+<g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji>
+👨‍💻  My Skills: [ MERN Stack Developer 🚀 | JavaScript 💻 | Node.js 🟢 | Express.js ⚙️ | REST API 🌐 | React.js ⚛️ | Laravel 🐘 | PHP 🔵 | SQL 📊 | MySQL 🗃️ | MongoDB 🍃 | OOP 🧠 | MVC 🧩 | Git 🧷 | Version Control 🔧
 <br>
-   
+
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="adam-pw" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="350">
+<br>
+    
+👨‍💻 All of my projects: [Repositories on GitHub 🔗](https://github.com/ameer-ali-jamali?tab=repositories)
+<br>
+
+🌐 Laravel E-Books Project Repo: [GitHub 📎](https://github.com/ameer-ali-jamali/E_Project_Using_Laravel)
+<br>
+
+👕 Laravel Live Site: [E-Books.com 🌍](https://e-boooks.000webhostapp.com/)
+<br>
+
+💻 Front-End Site: [A1-Uniforms.com 🛒](https://a1-uniforrms.000webhostapp.com)
+<br>
+
+📫 React.js Live Demo: [Temp-Details ⚛️](https://temprory-details.netlify.app/)
+<br>
+
+⚡ Explore My Work Experience: [Resume 📎](https://drive.google.com/drive/folders/1XPQ8rRWJ_PKh5L8VUcd1Mf31DwBevdIx)
+<br>
+
+⚡ Fun Fact: One day I will be the best Web Developer in the world! 💯
+<br>
+
+📫 Contact Me: [Email 💌](https://mail.google.com/mail/?view=cm&fs=1&to=ameer.ali.jamali886@gmail.com)
+</p>
+
+## 
+<p dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="max-width: 100%;">
+     </a>
+</p>
+<br>
+
 ## 👨‍💻 My Skills
-<table><tr><td valign="top" width="50%">
-      
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" /></a>  
-</div>
-</td><td valign="top" width="50%">
-      
-### Backend  
-<div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<a href="https://codeigniter.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-  </table>
-      
+
+<p align="center">
+
+  <!-- HTML5 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="background-color:#e34f26; padding:10px; border-radius:8px;" />
+  </a>
+
+  <!-- CSS3 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="background-color:#1572B6; padding:10px; border-radius:8px;" />
+  </a>
+
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="60" height="60" style="background-color:#7952B3; padding:10px; border-radius:8px;" />
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="background-color:#f7df1e; padding:10px; border-radius:8px;" />
+  </a>
+
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" style="background-color:#3178c6; padding:10px; border-radius:8px;" />
+  </a>
+
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank" title="React">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="background-color:#61DAFB; padding:10px; border-radius:8px;" />
+  </a>
+
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="60" height="60" style="background-color:#38B2AC; padding:10px; border-radius:8px;" />
+  </a>
+
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank" title="Node.js">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" style="background-color:#339933; padding:10px; border-radius:8px;" />
+  </a>
+
+  <!-- Express.js -->
+  <a href="https://expressjs.com/" target="_blank" title="Express.js">
+    <img src="https://img.icons8.com/color/48/000000/express-js.png" width="60" height="60" style="background-color:#1E90FF; padding:10px; border-radius:8px;" />
+  </a>
+
+  <!-- PHP -->
+  <a href="https://php.net/" target="_blank" title="PHP">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" style="background-color:#777bb4; padding:10px; border-radius:8px;" />
+  </a>
+
+  <!-- Laravel -->
+  <a href="https://laravel.com/" target="_blank" title="Laravel">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="60" height="60" style="background-color:#FF2D20; padding:10px; border-radius:8px;" />
+  </a>
+
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" style="background-color:#47A248; padding:10px; border-radius:8px;" />
+  </a>
+
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="background-color:#4479A1; padding:10px; border-radius:8px;" />
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="background-color:#F05032; padding:10px; border-radius:8px;" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="background-color:#181717; padding:10px; border-radius:8px;" />
+  </a>
+
+</p>
+
+
+
+
 <br/>  
   
-<!-- ## 📊 GitHub Stats
-<table>
-<div valign="top" width="100%">  
-<span align="left" ></span>
-<span align="right" >
-<span align="center" ></span> -->
       
 ## 📊 GitHub Stats
       

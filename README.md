@@ -17,7 +17,7 @@
 </h1>
 <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji>
 👨‍💻  My Skills: [ MERN Stack Developer 🚀 | JavaScript 💻 | Node.js 🟢 | Express.js ⚙️ | REST API 🌐 | React.js ⚛️ | Laravel 🐘 | PHP 🔵 | SQL 📊 | MySQL 🗃️ | MongoDB 🍃 | OOP 🧠 | MVC 🧩 | Git 🧷 | Version Control 🔧
-<br>
+<br/><br/>
 
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="adam-pw" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="350">
 <br>
